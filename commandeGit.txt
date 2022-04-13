@@ -8,7 +8,9 @@ Pour cloné (recopier) un repo Git distant -> git clone <url>
 
 Pour ajouté au suivi des modifications -> git add <nomDuFichier> OU . (pour ajouter tout les fichiers)
 
-Pour préparer l'envoi des modifications au repo distant -> git push  (git push -u origin <nomDeLaBranche> lors du premier push)
+Pour préparer l'envoi des modifications au repo distant -> git commit -m 'mon commentaire'
+
+Pour envoyer les modifications -> git push  (git push -u origin <nomDeLaBranche> lors du premier push)
 
 Pour créer une nouvelle branche -> git branch <leNomDeLaBranche>
 
