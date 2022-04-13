@@ -1,3 +1,3 @@
 <?php
-$hi = 'hi';
+$new = 'Voici une nouvelle modification';
 ?>
