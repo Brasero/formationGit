@@ -9,4 +9,9 @@ if ($commitMaster) {
     echo $commitBranch;
 }
 
+$slap = "badass";
+
+while True:
+    echo $slap
+
 ?>
