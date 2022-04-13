@@ -1,5 +1,6 @@
 <?php
 $hi = 'hi';
-et la c'est bon
+echo "et la c'est bon";
 
+echo "Bravo Kéké !";
 ?>
